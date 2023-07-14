@@ -1,0 +1,1 @@
+java -jar hopital-1.0-SNAPSHOT.jar
